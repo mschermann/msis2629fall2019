@@ -1,6 +1,7 @@
 .Rproj.user
 .RData
 .Rhistory
+.gitattributes
 syllabus.nb.html
 syllabus.Rmd
 Syllabus.Rproj
